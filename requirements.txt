@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# Notebook
+google colab
+
+# Dashboard
+streamlit
